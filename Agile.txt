@@ -64,6 +64,7 @@ Product Backlog
 Sprint backlog
 User Stories
 
+[Agile_Scrum_Team_Working_Speech.txt]
 
 
 
