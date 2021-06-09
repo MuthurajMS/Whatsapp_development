@@ -1,2 +1,2 @@
-# Whatsapp_development
-this about the messenger development 
+Agile ceremonies
+Scrum Framework Wich is followed by all
