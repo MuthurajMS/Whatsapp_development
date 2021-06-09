@@ -18,7 +18,9 @@ Story Points:
 2.Poker cards(fibonacci series -1/2 ,1, 2, 3,5,8,13,20,........Coffe cup ,?)(physical,Web link)
 
 
+
 Sprints(2 to 3 weeks)
+
 
 SPRINT HAS TWO TYPES:
 
