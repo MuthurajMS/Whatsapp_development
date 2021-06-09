@@ -24,7 +24,7 @@ Story Points:
 
 Sprints(2 to 4 weeks)
 
-Scrum team (BA,Dev,Testers)-Otracle EBS ,NOE Furious-max team limit is 5 to 9 members
+Scrum team (BA,Dev,Testers)-Scrum Team is 5 to 7 members
 
 roles in scrum 
 Product owner (gives the story)
