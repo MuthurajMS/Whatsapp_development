@@ -1,0 +1,64 @@
+Waterfall Method :
+
+Design phase
+Devep
+Test
+
+Agile
+
+(Devolepers,Testers)
+
+3 week of sprint - (1,2) sprint refinement planning
+
+Story-Requirement:
+AS I <Role> i want <need> so that i can achieve <end use>
+
+example story :
+
+as a tester i need test data so that i can use in my automation scripts
+
+Story Points:
+1.T sshirt sizng
+2.Poker cards(fibonacci series -1/2 ,1, 2, 3,5,8,13,20,........Coffe cup ,?)(physical,Web link)
+
+
+Sprints(2 to 4 weeks)
+
+Scrum team (BA,Dev,Testers)-Otracle EBS ,NOE Furious-max team limit is 5 to 9 members
+
+roles in scrum 
+Product owner (gives the story)
+dev team 
+scrum master-facilitator
+
+scrum -Stricly time boxed
+
+During sprints Ceremonies:
+1.Sprint refinement(Stakeholders ,Dev(Dev+tester),Scrum master)-2 hrs epic -big story (20)-3 usezr stories
+2.Sprint planning(dev team,scrum master) 1hr
+3.daily scrum meeting-15mins
+--what u have done yesterday
+--what u will do today
+--any impediments
+
+4.Sprint Review 1hr
+stakeholders ,Product owner,Dev team ,Scrum master
+
+Demo
+
+5.Sprint retrospection 1 hr
+scrum master,Dev team,product owner
+
+--what went well
+--what went wrong
+--action points(prioritised wrng points)
+
+artifacts:
+
+Product Backlog
+Sprint backlog
+User Stories
+
+
+
+
