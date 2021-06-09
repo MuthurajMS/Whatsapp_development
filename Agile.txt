@@ -45,14 +45,16 @@ During sprints Ceremonies:
 4.Sprint Review 1hr
 stakeholders ,Product owner,Dev team ,Scrum master
 
-Demo
+Demo review at the end of sprint
 
-5.Sprint retrospection 1 hr
+5.Sprint retrospective review 1 hr
 scrum master,Dev team,product owner
 
 --what went well
 --what went wrong
 --action points(prioritised wrng points)
+--Recognisations
+--improvememnts on next sprint
 
 artifacts:
 
