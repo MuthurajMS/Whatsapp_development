@@ -1,8 +1,4 @@
-Waterfall Method :
 
-Design phase
-Devep
-Test
 
 Agile
 
