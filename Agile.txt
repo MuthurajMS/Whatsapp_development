@@ -24,6 +24,11 @@ Story Points:
 
 Sprints(2 to 4 weeks)
 
+SPRINT HAS TWO TYPES:
+
+N Sprint
+N-1 Sprint
+
 Scrum team (BA,Dev,Testers)-Scrum Team is 5 to 7 members
 
 roles in scrum 
